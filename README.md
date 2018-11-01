@@ -4,21 +4,23 @@ Name: Daniel White
 Date: November 1st, 2018
 
 ## Goal
-The purpose of the assignment is to assess bias amongst countries based on the number of Wikipedia articles written about political figures. The analysis assesses both the number of articles and the quality of those articles using the ORES API. Several tables and charts are created to assess which countries may be overrepresented and which may be underrepresented.
+The purpose of the assignment is to assess bias amongst countries based on the number of Wikipedia articles written about political figures. The analysis assesses both the number of articles and the quality of those articles using the ORES API. Several tables and charts are created to assess which countries may be overrepresented and which may be underrepresented. The analysis is performed in the accompanying Jupyter notebook entitiled 'hcds-a2-bias'.
 
 
 ## Resources used
 This analysis was prepared using Python 3.5 running in a Jupyter Notebook environment. The documentation for each can be found below:
+
 Python: https://docs.python.org/3.5/
+
 Jupyter Notebook: http://jupyter-notebook.readthedocs.io/en/latest/
 
 The Jupyter notebook primarily uses the following Python packages:
 
-requests
-json
-pandas
-numpy
-matplotlib
+* requests
+* json
+* pandas
+* numpy
+* matplotlib
 
 The documentation can be found on their respective documentation pages.
 
